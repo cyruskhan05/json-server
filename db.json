@@ -1,0 +1,253 @@
+{
+ "Categories":[
+{"id":1,
+"image":"",
+"title":"Hotels & Resorts"},
+
+{"id":2,
+"image":"",
+"title":"Grocery & Kiryana"},
+
+{"id":3,
+"image":"",
+"title":"Pubs & Bars"},
+
+{"id":4,
+"image":"",
+"title":"Flats & PGs"},
+
+{"id":5,
+"image":"",
+"title":"Salons & Spas"},
+
+{"id":6,
+"image":"",
+"title":"Gyms & Fitness centers"},
+
+{"id":7,
+"image":"",
+"title":"Restaurants & Cafes"}
+
+],
+
+ "Hotels & Resorts":[
+
+      {
+        "id":1,
+      "title":"Octave Church Inn",
+      "Image":"",
+      "Text":``,
+      "Place":"Shivaji Nagar"
+    
+    
+      },
+      {
+        "id":2,
+      "title":"ITC Windsor",
+      "Image":"",
+      "Text":`ITC Windsor is the Bangalore’s 1st Luxury hotel from the airport (45 minutes), and a distinguished address in the heart of the state capital. Architecturally styled on the British Regency era, this luxurious hotel is set within an ambience reminiscent of the halcyon days of the British Raj..
+      With a platinum grade commitment to guests and the planet, ITC Windsor is certified with a LEED (Leadership in Energy and Environmental Design) Platinum rating for globally recognized planet positive endeavours.
+      It is also the first hotel in the world to be certified LEED Zero Carbon.With 240 well-appointed rooms and luxury suites, 6 F&B outlets, spa and gymnasium, concierge services and state of the art business centre, the hotel enjoys the reputation of a place where old world ambience merges effortlessly with international standards of efficiency.
+      Used by major international flight crew and has played host to various dignitaries, Heads of States, Global CEOs and senior management of major companies.`,
+      "Place":"Golf Course Road"
+    
+    
+      },
+      {
+        "id":3,
+      "title":"Welcomhotel by ITC",
+      "Image":"",
+      "Text":`Situated amongst lush, landscaped gardens, Welcomhotel Bengaluru is 37 km. away from the airport and conveniently placed in close proximity to the city’s shopping, entertainment and commercial zones. From contemporary interiors to exquisite fine dining to a rejuvenating spa, we look forward to offering you unique experiences with deeper meaning so you can enjoy a comfortable stay in India’s Silicon Valley`,
+      "Place":"Richmond Road"
+    
+    
+      }
+  
+    ],
+
+    "Restaurants & Cafes":[
+      {
+        "id":1,
+      "title":"Barbeque Nation",
+      "Image":"",
+      "place":"Indiranagar 2nd Stage",
+      "Text":`Indian cuisine is a natural part of the diet in the markets in which the Barbeque Nation Restaurants operate. We continue to offer new menu options, both vegetarian and non-vegetarian, largely based on Indian cuisine, and use seasonal customer preferences to introduce new dishes. We also run popular food festivals at our Barbeque Nation Restaurants, thereby offering our customers a range of Indian and international cuisines.`,
+      "Verified":"yes"
+    
+    
+      },
+      {
+        "id":2,
+      "title":"Anand Sweets & Savouries",
+      "Image":"",
+      "Text":`Anand Sweets is a great sweets shop which passion is to craft and deliver authentic sweets and savories in royal taste of india. From lavish kaju sweets, to pure ghee delicacies and freshly made savories, every morsel is imagined and created with a single intent, to deliver joy – true Anand.`,
+      "Verified":"yes",
+      "Place":"Koramangala 5th Block"
+
+    
+    
+      },
+      {
+        "id":3,
+      "title":"Rameshwaram Cafe",
+      "Image":"",
+      "Text":`Anand Sweets is a great sweets shop which passion is to craft and deliver authentic sweets and savories in royal taste of india. From lavish kaju sweets, to pure ghee delicacies and freshly made savories, every morsel is imagined and created with a single intent, to deliver joy – true Anand.`,
+      "Verified":"yes",
+      "place":"Indiranagar 2nd Stage"
+
+    
+    
+      }
+    ],
+    "Grocery":[
+      {
+        "id":1,
+      "title":"More Supermarket",
+      "Image":"https://zagnow.in/wp-content/uploads/2022/09/photo-1593412578702-3332c86f3db3-1-1200x960.jpeg",
+      "Text":"",
+      "Place":"Koramangla 8th Block"
+
+    
+    
+      },
+      {
+        "id":2,
+      "title":"DMart",
+      "Image":"https://zagnow.in/wp-content/uploads/2022/09/photo-1580674287405-80cd77a2fee2-1-1200x801.jpeg",
+      "Text":"",
+      "Place":"Koramangala 1st Block"
+    
+    
+      }
+    ],
+    "Salon":[
+      {
+        "id":1,
+      "title":"",
+      "Image":"",
+      "Text":""
+    
+    
+      },
+      {
+        "id":2,
+      "title":"",
+      "Image":"",
+      "Text":""
+    
+    
+      }
+    ],
+    "Spa":[
+      {
+        "id":1,
+      "title":"",
+      "Image":"",
+      "Text":""
+    
+    
+      },
+      {
+        "id":2,
+      "title":"",
+      "Image":"",
+      "Text":""
+    
+    
+      }
+    ],
+    "Kiryana":[
+      {
+        "id":1,
+      "title":"",
+      "Image":"",
+      "Text":""
+    
+    
+      },
+      {
+        "id":2,
+      "title":"",
+      "Image":"",
+      "Text":""
+    
+    
+      }
+    ],
+    
+    "Pubs":[
+      {
+        "id":1,
+      "title":"Byg Brewski",
+      "Image":"https://zagnow.in/wp-content/uploads/2022/09/305094133_5442222722482051_9095469710530549277_n-1.jpg",
+      "Text":`Byg Brewski brings the glorious Nordic history of brewing
+      to the city of microbreweries. Offering rustic and opulent experiences in a crafting environment
+      
+      `,
+      "Place":"sarjapur Road"
+    
+    
+      },
+      {
+        "id":2,
+      "title":"",
+      "Image":"",
+      "Text":""
+    
+    
+      }
+    ],
+
+    "Flats":[
+      {"id":1,
+      "title":"",
+      "Image":"",
+      "Text":""
+    },
+    {
+      "id":2,
+      "title":"",
+      "Image":"",
+      "Text":""
+    }
+    
+  ],
+  "Blogs":[
+    {
+      "id":"1",
+      "Title":"4 Best Yogurt Combinations for Belly Fat Loss",
+      "Image":"https://zagnow.in/wp-content/uploads/2022/09/healthy-yogurt-for-weight-loss-scaled-1-768x576.jpg",
+      "Text":``
+
+    },
+    {
+      "id":"2",
+      "Title":"Beautiful beaches to visit in India",
+      "Image":"https://zagnow.in/wp-content/uploads/2022/09/beaches-768x512.jpg",
+      "Text":``
+
+    },
+    {
+      "id":"3",
+      "Title":"Top nature resorts near Bangalore Perfect getaways",
+      "Image":"https://zagnow.in/wp-content/uploads/2022/08/Nature-resorts-scaled-1-900x500.jpg",
+      "Text":``
+
+    },
+    {
+      "id":"4",
+      "Title":"4 Best Yogurt Combinations for Belly Fat Loss",
+      "Image":"https://zagnow.in/wp-content/uploads/2022/09/healthy-yogurt-for-weight-loss-scaled-1-768x576.jpg",
+      "Text":``
+
+    },
+    {
+      "id":"5",
+      "Title":"4 Best Yogurt Combinations for Belly Fat Loss",
+      "Image":"https://zagnow.in/wp-content/uploads/2022/09/healthy-yogurt-for-weight-loss-scaled-1-768x576.jpg",
+      "Text":``
+
+    }
+
+  ]
+}
